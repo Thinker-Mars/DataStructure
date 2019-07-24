@@ -1,7 +1,7 @@
 package graph;
 
 /**
- * 图实现类搜索
+ * 图实现类
  * @author Cone
  * @since 2019年7月24日
  *
